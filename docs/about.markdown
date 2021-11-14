@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Me
-permalink: /me/
+title: About
+permalink: /about/
 ---
 
-[![Link to about me image](/assets/img/me.png)](/assets/img/me.png)
+I'm a teacher candidate currently doing practicum at Galt Collegiate Institute
