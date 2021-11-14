@@ -1,1 +1,6 @@
 theme: jekyll-theme-midnight
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
