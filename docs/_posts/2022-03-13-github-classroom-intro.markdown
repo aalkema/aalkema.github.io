@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Github Classroom for ICS Courses"
-date:   2022-03-13 13:46:38 -0400
+date:   2023-02-13 13:46:38 -0400
 categories: teaching
 ---
 
