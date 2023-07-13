@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Spectral';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap; 
+        src:
+            url('spectral-regular.woff2') format('woff2'),
+            url('spectral-regular.woff') format('woff'),
+            url('spectral-regular.ttf') format('truetype');
+}
+
+body {
+    font: 100%/1.5 'Spectral', serif;
+    font-variant-ligatures: common-ligatures;
+    margin: 0 auto; 
+    padding: 2em; 
+    text-align: left; 
+    max-width: 40rem;
+}
+
+h1 {
+    font-weight: 700;
+    margin-bottom: 0;
+    line-height: 1.1;
+}
+
+h2 {
+    font-weight: 600;
+    line-height: 1.2;
+    margin-top: 2.4rem;
+}
+
+@media screen and (min-width: 768px) {
+    html {
+      font-size: 110%;
+    }
+  }
+  
+  @media screen and (min-width: 1024px) {
+    html {
+      font-size: 120%;
+    }
+  }
+  
+  @media screen and (min-width: 1200px) {
+    html {
+      font-size: 130%;
+    }
+  }
+
